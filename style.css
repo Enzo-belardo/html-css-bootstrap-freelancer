@@ -1,7 +1,9 @@
-main{
-    background-color: rgb(38, 229, 38);
-}
-.col{
+
+.col-big{
     height: 400px;
     background-color: blue;
+}
+.product{
+    height: 200px;
+    background-color: orange;
 }
