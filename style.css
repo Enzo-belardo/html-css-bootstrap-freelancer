@@ -1,9 +1,14 @@
 
-.col-big{
+.jumbo{
     height: 400px;
-    background-color: blue;
+    border: solid 2px black;
+    
 }
 .product{
     height: 200px;
-    background-color: orange;
+    border: solid 2px black;  
+}
+.about{
+    border: solid 2px black;
+    height: 100px;
 }
