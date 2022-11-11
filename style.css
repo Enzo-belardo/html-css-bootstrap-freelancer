@@ -1,11 +1,19 @@
+.navbar-bg{
+    background-color:#2c3e50 ;
+    color: white;
 
+}
+.bg-color-jumbo{
+    background-color: #1abc9c;
+
+}
 .jumbo{
     height: 400px;
     border: solid 2px black;
     
 }
 .product{
-    height: 200px;
+    height: 250px;
     border: solid 2px black;  
 }
 .about{
