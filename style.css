@@ -3,7 +3,7 @@
     color: white;
 
 }
-.bg-color-jumbo{
+.bg-color-jumbo{ 
     background-color: #1abc9c;
 
 }
@@ -12,16 +12,17 @@
     border: solid 2px black;
     
 }
-.product{
-    height: 250px;
-    border: solid 2px black;  
+
+.bg-about{
+    background-color: #1abc9c;
 }
-.about{
-    border: solid 2px black;
-    height: 100px;
-}
+
 .col-foot{
     border: solid 2px black;
     height: 100px;
+
+}
+.jumbo>img{
+    width: 100%;
 
 }
